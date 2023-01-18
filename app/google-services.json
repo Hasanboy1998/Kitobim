@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "961098834861",
+    "project_id": "kitobim-app-by-khasanboy",
+    "storage_bucket": "kitobim-app-by-khasanboy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961098834861:android:6fb70dc3f96eabe11bb724",
+        "android_client_info": {
+          "package_name": "uz.gita.khasanboy_kitobim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961098834861-bia5i20lj2k352iun638d2qv5jfbdmbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOV6NBRl_y4jciIA0tFucnPRMoQ_p6BYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961098834861-bia5i20lj2k352iun638d2qv5jfbdmbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
