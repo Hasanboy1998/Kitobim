@@ -9,21 +9,10 @@ Demo versiyani yuklab olish uchun [link - Kitobim.apk](https://github.com/Hasanb
 
 ## Skrinshotlar
 
-### Asosiy oyna
+| Asosiy oyna | Kitob qidirish | Kitob haqida | Kitob o'qish oynasi |
+|--------|--------|--------|--------|
+| ![Asosiy oyna](![App Screenshot](https://github.com/Hasanboy1998/Kitobim/blob/master/screenshots/MainScreen_Kitobim.jpg?raw=true)) | ![Kitob qidirish](![Asosiy oyna](https://github.com/Hasanboy1998/Kitobim/blob/master/screenshots/SearchBook_Kitobim.jpg?raw=true)) | ![Kitob haqida](![Kitob haqida](https://github.com/Hasanboy1998/Kitobim/blob/master/screenshots/DeteilScreen_Kitobim.jpg?raw=true)) |![Kitob o'qish oynasi](![Kitob o'qish oynasi](https://github.com/Hasanboy1998/Kitobim/blob/master/screenshots/PdfView_Screen_Kitobim.jpg?raw=true)) |
 
-![App Screenshot](https://github.com/Hasanboy1998/Kitobim/blob/master/screenshots/MainScreen_Kitobim.jpg?raw=true)
-
-### Kitoblarni qidirish oynasi
-
-![App Screenshot](https://github.com/Hasanboy1998/Kitobim/blob/master/screenshots/SearchBook_Kitobim.jpg?raw=true)
-
-### Kitob haqida ma'lumotlar oynasi
-
-![App Screenshot](https://github.com/Hasanboy1998/Kitobim/blob/master/screenshots/DeteilScreen_Kitobim.jpg?raw=true)
-
-### Kitob o'qish oynasi
-
-![App Screenshot](https://github.com/Hasanboy1998/Kitobim/blob/master/screenshots/PdfView_Screen_Kitobim.jpg?raw=true)
 ## Dasturda quyidagilardan foydalanildi
 
 - Dependecy Injection (Hilt)
