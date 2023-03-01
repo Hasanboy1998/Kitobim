@@ -25,7 +25,7 @@ Demo versiyani yuklab olish uchun [link - Kitobim.apk](https://github.com/Hasanb
 
 - Glide
 
-- MVi pattern (Model-View-Intent)
+- MVI pattern (Model-View-Intent)
 
 - Jetpack Compose
 
