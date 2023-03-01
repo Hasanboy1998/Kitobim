@@ -1,4 +1,4 @@
-package uz.gita.khasanboy_kitobim.data.requestes
+package uz.gita.khasanboy_kitobim.data.remote.requestes
 
 data class BooksRequest(
     val author: String,

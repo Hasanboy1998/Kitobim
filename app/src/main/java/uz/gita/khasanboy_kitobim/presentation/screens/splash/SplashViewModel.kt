@@ -1,4 +1,4 @@
-package uz.gita.hasanboy_suvhaqidaeslatma.presentation.screens.splash
+package uz.gita.khasanboy_kitobim.presentation.screens.splash
 
 interface SplashViewModel {
 }
