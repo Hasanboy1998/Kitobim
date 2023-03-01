@@ -13,7 +13,7 @@ Demo versiyani yuklab olish uchun [link - Kitobim.apk](https://github.com/Hasanb
 |--------|--------|--------|--------|
 | ![Asosiy oyna](https://github.com/Hasanboy1998/Kitobim/blob/master/screenshots/MainScreen_Kitobim.jpg?raw=true) | ![Kitob qidirish](https://github.com/Hasanboy1998/Kitobim/blob/master/screenshots/SearchBook_Kitobim.jpg?raw=true) | ![Kitob haqida](https://github.com/Hasanboy1998/Kitobim/blob/master/screenshots/DeteilScreen_Kitobim.jpg?raw=true) |![Kitob o'qish oynasi](https://github.com/Hasanboy1998/Kitobim/blob/master/screenshots/PdfView_Screen_Kitobim.jpg?raw=true) |
 
-## Dasturda quyidagilardan foydalanildi
+## Dasturda quyidagilardan foydalanilgan
 
 - Dependecy Injection (Hilt)
 
